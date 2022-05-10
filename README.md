@@ -54,3 +54,19 @@ npm install node-red-node-email
 ```sh
 npm install node-red-dashboard
 ```
+
+## Configure Redis Node
+
+For configure connection in a Redis Node add
+
+As server name write:<br>
+**ServerIP:PORT**
+
+<p align="center"><img src="1.png" width="400"/></p>
+
+
+In Option write
+```js
+{"host":"ServerIP","port":PORT}
+```
+<p align="center"><img src="2.png" width="400"/></p>
