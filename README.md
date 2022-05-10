@@ -1,8 +1,8 @@
 ## Prerequisites
 - Software:
     - Docker (Application containers engine)
-    - HiveMq (Serverless computing provider)
-    - Node-RED (AMQP and MQTT message broker)
+    - HiveMq 
+    - Node-RED
     - Redis
 
 ## Install Docker
