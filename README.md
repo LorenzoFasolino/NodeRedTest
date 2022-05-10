@@ -70,3 +70,24 @@ In Option write
 {"host":"ServerIP","port":PORT}
 ```
 <p align="center"><img src="2.png" width="400"/></p>
+
+## Configure Mqtt Node
+
+For configure connection in a Mqtt Node add:
+
+In **configuration** tab:
+
+- Server: <b>ServerIP</b>
+- Poert: <b>Port</b> (Default port is **1883**)
+
+
+
+<p align="center"><img src="3.png" width="400"/></p>
+
+
+In **security** tab:
+
+- username: YouUsername (Default **admin**)
+- password: YouPassword (Default **hivemq**)
+
+<p align="center"><img src="4.png" width="400"/></p>
